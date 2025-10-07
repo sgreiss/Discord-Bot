@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot-1",
+  "version": "1.0.0",
+  "description": "Simple discord bot with in-app integration with custom slash commands for easy user experience. Future plans involve continued development of commands and integration of various features, as well as permanent deployment.",
+  "homepage": "https://github.com/sgreiss/Discord-Bot#readme",
+  "bugs": {
+    "url": "https://github.com/sgreiss/Discord-Bot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgreiss/Discord-Bot.git"
+  },
+  "license": "ISC",
+  "author": "sgreiss",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "express": "^5.1.0"
+  }
+}
